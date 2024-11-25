@@ -34,9 +34,11 @@ The contract is deployed on the Ethereum network and is managed via Thirdweb SDK
    git clone <repo_url>
 
 2. Navigate to the project directory:
+     ```bash
     cd <repo_name>
-    
+
 3. Install dependencies:
+     ```bash
     npm install
 
 
